@@ -1,5 +1,5 @@
-var canvasWidth = 960;
-var canvasHeight = 500;
+var canvasWidth = windowWidth;
+var canvasHeight = windowHeight;
 
 var prevSec;
 var millisRolloverTime;
