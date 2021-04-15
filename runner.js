@@ -1,5 +1,5 @@
-var canvasWidth = windowWidth;
-var canvasHeight = windowHeight;
+var canvasWidth = window.innerWidth;
+var canvasHeight = window.innerHeight;
 
 var prevSec;
 var millisRolloverTime;
